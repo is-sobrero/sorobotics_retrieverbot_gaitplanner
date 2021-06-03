@@ -1,4 +1,4 @@
-# sorobotics_codenamedog_sim
+# sorobotics_codenamedog_gaitplanner
 Gait Planner algorithm for RetrieverBot
 # Licensing
 ## Authors / Copyright
